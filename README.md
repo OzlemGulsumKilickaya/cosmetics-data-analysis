@@ -7,19 +7,33 @@ This repository contains the full statistical analysis pipeline for a clinical o
 ## 📦 Project Structure
 
 cosmetics-data-analysis/
+
 ├── data/
+
 │ └── Cosmetics_Raw_Data.xlsx # Source data (anonymized)
+
 │
+
 ├── notebooks/
+
 │ └── 30346642.ipynb # Main analysis notebook (R or Python kernel)
+
 │
+
 ├── reports/
+
 │ ├── Statistical_Analysis_Report.docx # Final report
+
 │ ├── Tables_and_Figures.docx # Supporting visual summaries
+
 │ └── Notes_on_Study.docx # Variable definitions, instructions
+
 │
+
 ├── LICENSE
+
 ├── .gitignore
+
 └── README.md
 
 
